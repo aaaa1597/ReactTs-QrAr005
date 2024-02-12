@@ -5,6 +5,7 @@
 
 ![](https://storage.googleapis.com/zenn-user-upload/16c880314210-20240212.png)
 QRコードの上に3Dモデル描画が出来ている。
+
 トラッキングが超弱いけど。。。
 
 それはzxingのせいやし。。。
